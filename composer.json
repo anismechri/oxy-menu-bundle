@@ -2,6 +2,7 @@
     "name": "anismechri/oxy-menu-bundle",
     "type": "symfony-bundle",
     "description": "Menu Bundle for Symfony ",
+    "license": "MIT",
     "authors": [{
         "name": "Mechri Anis",
         "email": "anis@anismechri.tn"
